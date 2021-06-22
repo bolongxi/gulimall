@@ -47,19 +47,6 @@ gulimall
 |  node.js  | |   https://nodejs.org/en   |
 
 
-
-
-
-[![UUvRAS.png](https://images.gitee.com/uploads/images/2020/0714/193425_4a1056c4_4914148.png)](https://imgchr.com/i/UUvRAS)
-
-
-
-![UUvb7T.png](https://images.gitee.com/uploads/images/2020/0714/193425_9bb153d1_4914148.png)
-
-
-
-
-
 |     工具      |   |                      官网                       |
 | :-----------: |   | :---------------------------------------------: |
 |     IDEA      |   |     https://www.jetbrains.com/idea/download     |
