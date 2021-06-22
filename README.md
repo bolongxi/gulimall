@@ -37,19 +37,19 @@ The GuliMall project is a group of e-commerce projects, including a front-end sh
 
 ```
 gulimall
-├── gulimall-common -- 工具类及通用代码
-├── renren-generator -- 人人开源项目的代码生成器
-├── gulimall-auth-server -- 认证中心（社交登录、OAuth2.0、单点登录）
-├── gulimall-cart -- 购物车服务
-├── gulimall-coupon -- 优惠卷服务
-├── gulimall-gateway -- 统一配置网关
-├── gulimall-order -- 订单服务
-├── gulimall-product -- 商品服务
-├── gulimall-search -- 检索服务
-├── gulimall-seckill -- 秒杀服务
-├── gulimall-third-party -- 第三方服务
-├── gulimall-ware -- 仓储服务
-└── gulimall-member -- 会员服务
+├── gulimall-common 
+├── renren-generator 
+├── gulimall-auth-server 
+├── gulimall-cart 
+├── gulimall-coupon 
+├── gulimall-gateway 
+├── gulimall-order 
+├── gulimall-product 
+├── gulimall-search 
+├── gulimall-seckill 
+├── gulimall-third-party 
+├── gulimall-ware 
+└── gulimall-member 
 
 ```
 
@@ -57,28 +57,27 @@ gulimall
 
 **后端技术**
 
-|        技术        |           说明           |                      官网                       |
-| :----------------: | :----------------------: | :---------------------------------------------: |
-|     SpringBoot     |       容器+MVC框架       |     https://spring.io/projects/spring-boot      |
-|    SpringCloud     |        微服务架构        |     https://spring.io/projects/spring-cloud     |
-| SpringCloudAlibaba |        一系列组件        | https://spring.io/projects/spring-cloud-alibaba |
-|    MyBatis-Plus    |         ORM框架          |             https://mp.baomidou.com             |
-|  renren-generator  | 人人开源项目的代码生成器 |   https://gitee.com/renrenio/renren-generator   |
-|   Elasticsearch    |         搜索引擎         |    https://github.com/elastic/elasticsearch     |
-|      RabbitMQ      |         消息队列         |            https://www.rabbitmq.com             |
-|   Springsession    |        分布式缓存        |    https://projects.spring.io/spring-session    |
-|      Redisson      |         分布式锁         |      https://github.com/redisson/redisson       |
-|       Docker       |       应用容器引擎       |             https://www.docker.com              |
-|        OSS         |        对象云存储        |  https://github.com/aliyun/aliyun-oss-java-sdk  |
+|        技术        |       |                      官网                       |
+| :----------------: |      | :---------------------------------------------: |
+|     SpringBoot     |      |     https://spring.io/projects/spring-boot      |
+|    SpringCloud     |      |     https://spring.io/projects/spring-cloud     |
+| SpringCloudAlibaba |      | https://spring.io/projects/spring-cloud-alibaba |
+|    MyBatis-Plus    |      |             https://mp.baomidou.com             |
+|  renren-generator  |      |   https://gitee.com/renrenio/renren-generator   |
+|   Elasticsearch    |      |    https://github.com/elastic/elasticsearch     |
+|      RabbitMQ      |      |            https://www.rabbitmq.com             |
+|   Springsession    |      |    https://projects.spring.io/spring-session    |
+|      Redisson      |      |      https://github.com/redisson/redisson       |
+|       Docker       |      |             https://www.docker.com              |
+|        OSS         |      |  https://github.com/aliyun/aliyun-oss-java-sdk  |
 
 **前端技术**
-
-|   技术    |    说明    |           官网            |
-| :-------: | :--------: | :-----------------------: |
-|    Vue    |  前端框架  |     https://vuejs.org     |
-|  Element  | 前端UI框架 | https://element.eleme.io  |
-| thymeleaf |  模板引擎  | https://www.thymeleaf.org |
-|  node.js  | 服务端的js |   https://nodejs.org/en   |
+|   技术    |  |           官网            |
+| :-------: | | :-----------------------: |
+|    Vue    | |     https://vuejs.org     |
+|  Element  | | https://element.eleme.io  |
+| thymeleaf | | https://www.thymeleaf.org |
+|  node.js  | |   https://nodejs.org/en   |
 
 ### 架构图
 
@@ -94,17 +93,17 @@ gulimall
 
 #### 开发工具
 
-|     工具      |        说明         |                      官网                       |
-| :-----------: | :-----------------: | :---------------------------------------------: |
-|     IDEA      |    开发Java程序     |     https://www.jetbrains.com/idea/download     |
-| RedisDesktop  | redis客户端连接工具 |        https://redisdesktop.com/download        |
-|  SwitchHosts  |    本地host管理     |       https://oldj.github.io/SwitchHosts        |
-|    X-shell    |  Linux远程连接工具  | http://www.netsarang.com/download/software.html |
-|    Navicat    |   数据库连接工具    |       http://www.formysql.com/xiazai.html       |
-| PowerDesigner |   数据库设计工具    |             http://powerdesigner.de             |
-|    Postman    |   API接口调试工具   |             https://www.postman.com             |
-|    Jmeter     |    性能压测工具     |            https://jmeter.apache.org            |
-|    Typora     |   Markdown编辑器    |                https://typora.io                |
+|     工具      |   |                      官网                       |
+| :-----------: |   | :---------------------------------------------: |
+|     IDEA      |   |     https://www.jetbrains.com/idea/download     |
+| RedisDesktop  |   |        https://redisdesktop.com/download        |
+|  SwitchHosts  |   |       https://oldj.github.io/SwitchHosts        |
+|    X-shell    |   | http://www.netsarang.com/download/software.html |
+|    Navicat    |   |       http://www.formysql.com/xiazai.html       |
+| PowerDesigner |   |             http://powerdesigner.de             |
+|    Postman    |   |             https://www.postman.com             |
+|    Jmeter     |   |            https://jmeter.apache.org            |
+
 
 #### 开发环境
 
@@ -127,14 +126,14 @@ gulimall
 - 修改本机的host文件，映射域名端口
 
 ```
-192.168.77.130	gulimall.com
-192.168.77.130	search.gulimall.com
-192.168.77.130  item.gulimall.com
-192.168.77.130  auth.gulimall.com
-192.168.77.130  cart.gulimall.com
-192.168.77.130  order.gulimall.com
-192.168.77.130  member.gulimall.com
-192.168.77.130  seckill.gulimall.com
+192.168.56.10	gulimall.com
+192.168.56.10	search.gulimall.com
+192.168.56.10  item.gulimall.com
+192.168.56.10  auth.gulimall.com
+192.168.56.10  cart.gulimall.com
+192.168.56.10  order.gulimall.com
+192.168.56.10  member.gulimall.com
+192.168.56.10  seckill.gulimall.com
 以上端口换成自己Linux的ip地址
 ```
 
@@ -177,6 +176,6 @@ server {
 
 
 
-### 如果你喜欢，要是觉得对你有帮助的话，请点个赞是对我最大的支持！
+
 
 
