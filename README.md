@@ -1,18 +1,12 @@
-# 谷粒商城简介
+GuliMall Shopping e-commerce platform
 
-### 前言
 
-gulimall` 项目致力于打造一个完整的电商系统，采用现阶段流行技术来实现，采用前后端分离继续编写。
+The GuliMall project is committed to establishing a complete large-scale distributed architecture e-commerce platform, which is implemented by adopting popular technologies at this stage and is written separately from the front end and the back end.
 
-### 项目API接口文档
+The GuliMall project is a group of e-commerce projects, including a front-end shopping mall system and a back-end management system based on SpringCloud, SpringCloud Alibaba, and MyBatis Plus. The front-end mall system includes user login, registration, product search, product detailed information, shopping cart, order, spike activity, and other modules. The back-end management system includes seven modules: system management, merchandise system, discount marketing, inventory system, order system, user system, and content management.
 
-- 文档地址：[https://easydoc.xyz/s/78237135/ZUqEdvA4/hKJTcbfd]()
 
-### 项目介绍
 
-gulimall（谷粒商城） 项目是一套电商项目，包括前台商城系统以及后台管理系统，基于 SpringCloud + SpringCloudAlibaba + MyBatis-Plus实现，采用 Docker 容器化部署。前台商城系统包括：用户登录、注册、商品搜索、商品详情、购物车、下订单流程、秒杀活动等模块。后台管理系统包括：系统管理、商品系统、优惠营销、库存系统、订单系统、用户系统、内容管理等七大模块。
-
-### 项目演示
 
 #### **前台部分功能演示效果**
 
